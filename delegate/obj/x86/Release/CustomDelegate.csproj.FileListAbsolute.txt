@@ -1,0 +1,4 @@
+D:\RKS_Training\Projects\Nikhil _ assignment\CustomDelegate\bin\Release\CustomDelegate.exe
+D:\RKS_Training\Projects\Nikhil _ assignment\CustomDelegate\bin\Release\CustomDelegate.pdb
+D:\RKS_Training\Projects\Nikhil _ assignment\CustomDelegate\obj\x86\Release\CustomDelegate.exe
+D:\RKS_Training\Projects\Nikhil _ assignment\CustomDelegate\obj\x86\Release\CustomDelegate.pdb
